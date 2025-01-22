@@ -136,7 +136,10 @@ Bold 700
 }
 
 /* Navigatin end */
-
+.marquee {
+  font-size: 2rem;
+  color: #f0aa00;
+}
 /* hero section start */
 .hero-text-box {
   padding-top: 2rem;
